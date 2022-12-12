@@ -12,7 +12,7 @@
   "dependencies": {
     "baidu-aip-sdk": "^2.4.6",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.10",
     "vue": "^2.5.2"
   },
